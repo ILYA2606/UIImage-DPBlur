@@ -3,8 +3,8 @@ UIImage-DPBlur
 
 ***English***
 
-Category for UIImage. Blur effect iOS 7 for iOS 6.0 and higher
+Category for UIImage. Adding blur effect iOS 7 and tint color for iOS 6.0 and higher
 
 ***Russian***
 
-Категория для UIImage. Эффект блюра iOS 7 для использования в iOS 6 и выше
+Категория для UIImage. Добавление эффекта блюра iOS 7 и оттенка для использования в iOS 6 и выше
